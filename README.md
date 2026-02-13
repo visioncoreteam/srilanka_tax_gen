@@ -2,7 +2,7 @@
 
 This application is a **Manager.io** extension that automatically generates invoice numbers compliant with **Sri Lanka Tax Department Guidelines**. It provides seamless integration with Manager.io accounting software to ensure your invoicing meets Sri Lankan tax regulations.
 
-Please visit this link to go Live: **[https://sltax.visioncorego.com](#)** _(Add your deployment URL here)_
+Please visit this link to go Live: **[https://sltax.visioncorego.com]** 
 
 ## Table of Contents
 - [What is Sri Lanka Invoice Generator?](#what-is-sri-lanka-invoice-generator)
